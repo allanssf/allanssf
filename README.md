@@ -20,4 +20,10 @@ Estou seguro que as minhas experiências anteriores e habilidades adquiririas es
 
 ## &#x1f4c8; GitHub Stats
 
-![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=allanssf&show_icons=true&theme=dracula)
+<a href="https://github.com/allanssf/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanssf&theme=blue-green" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/allanssf/allanssf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allanssf&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Allan's GitHub Stats" />
+</a>
