@@ -1,7 +1,6 @@
 ## Olá! Eu sou Allan Ferreira 🖐️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-ferreira-72a562184/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/allanssf)
 
 Após morar um ano na Irlanda, para melhorar o inglês, tive mais acesso e interesse pela área de programação. Sou formado em Administração de Empresas e tive alguns empreendimentos sob a minha responsabilidade e, após muitas análises, decidi fazer a transição de carreira. 
 
