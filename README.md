@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-ferreira-72a562184/)
 
-Após morar um ano na Irlanda, para melhorar o inglês, tive mais acesso e interesse pela área de programação. Sou formado em Administração de Empresas e tive alguns empreendimentos sob a minha responsabilidade e, após muitas análises, decidi fazer a transição de carreira. 
+Após morar um ano na Irlanda para melhorar o inglês, tive mais acesso e interesse pela área de programação. Sou formado em Administração de Empresas e já tive alguns empreendimentos sob a minha responsabilidade e, após muitas análises, decidi fazer a transição de carreira. 
 
-Iniciei em outubro de 2022 a minha jornada como aluno do curso de Desenvolvimento de Software Full Stack, ministrado pela Cubos Academy.
+Iniciei em outubro de 2022 a minha jornada como aluno do curso de Desenvolvimento de Software Full Stack, ministrado pela Cubos Academy. No curso, desenvolvi habilidades em Front-end (HTML, CSS e React.Js) e Back-end (utilizando JavaScript, TypeScript, Node e pacotes npm).
 
 Estou seguro que as minhas experiências anteriores e habilidades adquiririas estão alinhadas ao meu interesse em atuar como Desenvolvedor Web back-end, front-end ou full Stack.
 
